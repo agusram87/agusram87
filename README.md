@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h1>💻 ¡Hola, soy Carlos Agustín Ramírez! 💻</h1>
+  <h1>💻 ¡Hola, soy Agustín! 💻</h1>
 </div> 
 
 ## ¡Hola! 👋 bienvenidos!
@@ -21,8 +21,8 @@ Un placer para mi que hayas pasado a ver mi perfil. Soy un apasionado estudiante
 Aquí hay una vista de algunas de las herramientas y tecnologías con las que he estado trabajando:
 
 - **Lenguajes:** Python 🐍
-- **Librerías:** pandas 🐼, numpy 🔢, matplotlib 📊, seaborn 🌈
-- **Bases de Datos:** MySQL 🗄️
+- **Librerías:** pandas 🐼, numpy 🔢, matplotlib 📊, seaborn 🌈, scikit learn, PySpark, entre otras.
+- **Bases de Datos:** MySQL, Postgress, SQL Server 🗄️
 - **Procesamiento de Datos:** ETL 🔄, Análisis Exploratorio de Datos (EDA) 🔍
 - **Visualización:** POWER BI 📊
 - **Nube:** Google Cloud ☁️, Amazon AWS ☁️
