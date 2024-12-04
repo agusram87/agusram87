@@ -40,7 +40,6 @@ Veo el potencial en la intersección de los datos y la tecnología para abordar 
 
 📧 Correo Electrónico: agustinfsafsa@gmail.com
 
-¡Gracias por visitar mi perfil! 😊
 
 
 
