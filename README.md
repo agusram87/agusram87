@@ -6,7 +6,7 @@
   <h1>💻 ¡Hola, soy Agustín! 💻</h1>
 </div> 
 
-## ¡Hola! 👋 bienvenidos!
+## 👋 Bienvenidos!
 
 Un placer para mi que hayas pasado a ver mi perfil. Mi formación me ha brindado una base sólida en varias disciplinas clave en el mundo de los datos. Actualmente me estoy desempeñando como desarrollador ETL en una empresa.
 
